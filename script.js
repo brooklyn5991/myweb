@@ -6,7 +6,7 @@
 
      // Display the current day of the week in the h1 element inside the div
      const dayTextElement = document.getElementById("dayText");
-     dayTextElement.textContent = `Today Being ${currentDayOfWeek} Is A Blessed Day`;
+     dayTextElement.textContent = ` ${currentDayOfWeek} `;
 
 
 
